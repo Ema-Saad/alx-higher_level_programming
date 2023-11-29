@@ -7,6 +7,6 @@ if number ==0:
 elif number > 0:
     print(number,"is positive")
 
-else number < 0:
+else:
     print(number,"is negative")
 
